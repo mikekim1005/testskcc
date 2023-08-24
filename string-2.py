@@ -1,0 +1,5 @@
+print("naver", 'kakao', 'google')
+print("naver", 'kakao', 'google', sep='/')
+print("naver", 'kakao', 'google', sep=';  ', end='; \n')
+print("naver", 'kakao', 'google', sep='.com,', end='.com \n')
+print("naver", 'kakao', 'google', sep='.co.kr  ', end='.co.kr \n')
